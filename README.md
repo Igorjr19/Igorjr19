@@ -30,7 +30,7 @@
 <a href="https://www.docker.com" target="blank"><img src="https://github.com/material-extensions/vscode-material-icon-theme/blob/main/icons/docker.svg" alt="Docker" align="center" width="30" height="30" /></a>
 
 
-## Connect with me:
+## Connect with me
 <a href="https://linkedin.com/in/igorjr19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igorjr19" height="30" width="30" height="30" /></a>
 <br/>
 
