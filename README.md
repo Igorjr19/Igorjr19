@@ -2,7 +2,7 @@
 
 ## About me
 - 📓 Computer Science student at Unesp
-- 💻 Backend Development Intern
+- 💻 Backend Developmer
 - 🔍 Passionate about studying and learning new things
 - 💬 Ask me anything <a href="https://github.com/Igorjr19/Igorjr19/issues/new" target="blak">here</a>
 - 📫 How to reach me **igorjose19@hotmail.com**
