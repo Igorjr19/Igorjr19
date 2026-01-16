@@ -35,7 +35,7 @@
 <br/>
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorjr19&size_weight=0.5&count_weight=0.5&layout=donut&hide=jupyter%20notebook,css,html&show_icons=true&theme=transparent&locale=en" alt="igorjr19"  align="center" /> <img src="https://github-readme-stats.vercel.app/api?username=Igorjr19&show_icons=true&rank_icon=github&theme=transparent" alt="igorjr19"  align="center" />
+<img src="https://github-readme-stats.igorj.dev.br/api/top-langs?username=igorjr19&size_weight=0.5&count_weight=0.5&layout=donut&hide=jupyter%20notebook,css,html&show_icons=true&theme=transparent&locale=en" alt="igorjr19"  align="center" /> <img src="https://github-readme-stats.igorj.dev.br/api?username=Igorjr19&show_icons=true&rank_icon=github&theme=transparent" alt="igorjr19"  align="center" />
 
 ## Contributions 
 <picture>
