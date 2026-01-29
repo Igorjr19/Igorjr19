@@ -43,7 +43,7 @@
 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D36101)](https://codetime.dev)
 
-<img src="https://github-readme-stats.igorj.dev.br/api/top-langs?username=igorjr19&size_weight=0.5&count_weight=0.5&layout=donut&hide=jupyter%20notebook,css,html&show_icons=true&theme=transparent&locale=en" alt="igorjr19"  align="center" height=195 /> <img src="https://github-readme-stats.igorj.dev.br/api?username=Igorjr19&show_icons=true&rank_icon=github&theme=transparent" alt="igorjr19"  align="center" height=195 />
+<img src="https://github-readme-stats.igorj.dev.br/api/top-langs?username=igorjr19&size_weight=0.5&count_weight=0.5&layout=compact&hide=jupyter%20notebook,css,html&show_icons=true&theme=transparent&locale=en" alt="igorjr19"  align="center" height=160 /> <img src="https://github-readme-stats.igorj.dev.br/api?username=Igorjr19&show_icons=true&rank_icon=github&theme=transparent" alt="igorjr19"  align="center" height=160 />
 
 ## Contributions
 
