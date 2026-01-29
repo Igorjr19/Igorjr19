@@ -24,7 +24,7 @@
 <a href="https://expressjs.com" target="blank"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/express.svg" alt="Express.js" align="center" width="30" height="30" /></a>
 <a href="https://nestjs.com" target="blank"><img src="https://github.com/material-extensions/vscode-material-icon-theme/blob/main/icons/nest.svg" alt="Nest.js" align="center" width="30" height="30" /></a>
 <a href="https://react.dev" target="blank"><img src="https://github.com/material-extensions/vscode-material-icon-theme/blob/main/icons/react.svg" alt="React" align="center" width="30" height="30" /></a>
-<a href="https://angular.dev/tutorials/learn-angular" target="blank"><img src="https://github.com/material-extensions/vscode-material-icon-theme/blob/main/icons/angular.svg" alt="Angular" align="center" width="30" height="30" /></a>
+<a href="https://angular.dev" target="blank"><img src="https://github.com/material-extensions/vscode-material-icon-theme/blob/main/icons/angular.svg" alt="Angular" align="center" width="30" height="30" /></a>
 <a href="https://jestjs.io/" target="blank"><img src="https://github.com/material-extensions/vscode-material-icon-theme/blob/main/icons/jest.svg" alt="Jest" align="center" width="30" height="30" /></a>
 <a href="https://spring.io" target="blank"><img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" align="center" width="30" height="30" /></a>
 
