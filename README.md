@@ -3,7 +3,7 @@
 ## About me
 
 - 📓 Computer Science student at Unesp
-- 💻 Backend Developer
+- 💻 Fullstack Developer
 - 🔍 Passionate about studying and learning new things
 - 💬 Ask me anything <a href="https://github.com/Igorjr19/Igorjr19/issues/new" target="blak">here</a>
 - 📫 How to reach me **igorjose19@hotmail.com**
