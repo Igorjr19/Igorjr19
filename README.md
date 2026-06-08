@@ -18,7 +18,7 @@
 <a href="https://www.java.com" target="blank"><img src="https://github.com/material-extensions/vscode-material-icon-theme/blob/main/icons/java.svg" alt="Java" align="center" width="30" height="30" /></a>
 <a href="https://www.python.org" target="blank"><img src="https://github.com/material-extensions/vscode-material-icon-theme/blob/main/icons/python.svg" alt="Python" align="center" width="30" height="30" /></a>
 
-### Frameworks
+### Frameworks and Libraries
 
 <a href="https://nodejs.org" target="blank"><img src="https://github.com/material-extensions/vscode-material-icon-theme/blob/main/icons/nodejs.svg" alt="Node.js" align="center" width="30" height="30" /></a>
 <a href="https://expressjs.com" target="blank"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/express.svg" alt="Express.js" align="center" width="30" height="30" /></a>
