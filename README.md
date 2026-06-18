@@ -5,7 +5,7 @@
 - 📓 Computer Science student at Unesp
 - 💻 Fullstack developer with 2+ years experience in production
 - 🔍 Passionate about studying and learning new things
-- 🗺️ Moving toward DevOps / Platform Engineering, with focus on Terraform, Kubernetes, and CI/CD pipelines.
+- 🗺️ Moving toward DevOps with focus on Terraform, Kubernetes, and CI/CD pipelines
 - 💬 Ask me anything <a href="https://github.com/Igorjr19/Igorjr19/issues/new" target="_blank">here</a>
 - 📫 How to reach me **igorjose19@hotmail.com**
 - 💼 Connect wih me on <a href="https://linkedin.com/in/igorjr19" target="_blank">LinkedIn</a>
