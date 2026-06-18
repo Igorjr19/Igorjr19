@@ -8,6 +8,8 @@
 - 🗺️ Moving toward DevOps / Platform Engineering, with focus on Terraform, Kubernetes, and CI/CD pipelines.
 - 💬 Ask me anything <a href="https://github.com/Igorjr19/Igorjr19/issues/new" target="_blank">here</a>
 - 📫 How to reach me **igorjose19@hotmail.com**
+- 💼 Connect wih me on <a href="https://linkedin.com/in/igorjr19" target="_blank">LinkedIn</a>
+<br/>
 
 ## 🛠️ Skills
 
@@ -90,12 +92,7 @@
 
 <img src="https://github-readme-stats.igorj.dev.br/api/top-langs?username=igorjr19&size_weight=0.5&count_weight=0.5&layout=compact&hide=jupyter%20notebook,css,html,tex&show_icons=true&theme=transparent&locale=en" alt="igorjr19"  align="center" height=160 /> <img src="https://github-readme-stats.igorj.dev.br/api?username=Igorjr19&show_icons=true&rank_icon=github&theme=transparent" alt="igorjr19"  align="center" height=160 />
 
-<img src="https://streak-stats-psi.vercel.app?user=Igorjr19&theme=transparent&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
-
-## 🔗 Connect with me
-
-<a href="https://linkedin.com/in/igorjr19" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="igorjr19" height="30" width="30" height="30" /></a>
-<br/>
+<img src="https://github-readme-streak-stats.igorj.dev.br?user=Igorjr19&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=678&card_height=160" alt="GitHub Streak" />
 
 ## 🐍 Contributions
 
