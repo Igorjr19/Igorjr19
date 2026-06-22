@@ -77,6 +77,12 @@
     </td>
   </tr>
   <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <a href="https://nextjs.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="30"/></a>
+    </td>
+  </tr>
+  <tr>
     <td><b>Infra & DevOps</b></td>
     <td>
       <a href="https://developer.hashicorp.com/terraform"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" width="30"/></a>
