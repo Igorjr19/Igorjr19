@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About me
 
-- 📓 Computer Science student at Unesp
+- 📓 Computer Scientist graduated from UNESP
 - 💻 Fullstack developer with 2+ years experience in production
 - 🔍 Passionate about studying and learning new things
 - 🗺️ Moving toward DevOps with focus on Terraform, Kubernetes, and CI/CD pipelines
